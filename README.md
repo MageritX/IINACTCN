@@ -1,4 +1,4 @@
-![icon](https://github.com/xdw0000/IINACTCN/blob/main/images/icon.ico?raw=true)
+![icon](https://github.com/MageritX/IINACTCN/blob/main/images/icon.ico?raw=true)
 
 # IINACT
 
@@ -23,9 +23,9 @@ This will **not** render overlays by itself, use something like [Browsingway](ht
 This plugin is distributed as a custom Dalamud plugin.
 
 In-game: `/xlsettings` → Experimental → Custom Plugin Repositories
-Add the repo URL (see [Releases](https://github.com/xdw0000/IINACTCN/releases) page):
-`https://cdn.jsdelivr.net/gh/xdw0000/IINACTCN@main/repo.json`
-(fallback: `https://raw.githubusercontent.com/xdw0000/IINACTCN/main/repo.json`)
+Add the repo URL (see [Releases](https://github.com/MageritX/IINACTCN/releases) page):
+`https://cdn.jsdelivr.net/gh/MageritX/IINACTCN@main/repo.json`
+(fallback: `https://raw.githubusercontent.com/MageritX/IINACTCN/main/repo.json`)
 `/xlplugins` → search "IINACT" → Install
 
 Or for local dev builds:
@@ -37,7 +37,7 @@ Or for local dev builds:
 
 Just run 
 ```
-git clone --recurse-submodules https://github.com/xdw0000/IINACTCN.git
+git clone --recurse-submodules https://github.com/MageritX/IINACTCN.git
 cd IINACTCN
 dotnet build
 ``` 
